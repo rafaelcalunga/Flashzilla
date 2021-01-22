@@ -20,6 +20,7 @@
 		6DEE839425B9383D005C4021 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6DEE839725B9383D005C4021 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6DEE839925B9383D005C4021 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6DEE83A025BA8049005C4021 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 			children = (
 				6DEE838F25B9383B005C4021 /* Flashzilla */,
 				6DEE838E25B9383B005C4021 /* Products */,
+				6DEE83A025BA8049005C4021 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
