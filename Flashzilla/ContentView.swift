@@ -49,7 +49,7 @@ struct ContentView: View {
                                 self.removeCard(at: index)
                             }
                         }
-                            .stacked(at: index, in: self.cards.count)
+                        .stacked(at: index, in: self.cards.count)
                     }
                 }
                 .allowsHitTesting(timeRemaining > 0)
